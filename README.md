@@ -66,3 +66,5 @@ pip install -r requirements.txt
 Manually download and install Moses and other dependencies (you'll need to look inside scripts/download_install_packages.sh to replicate its steps).
 
 Run the training logic by manually executing the code inside train.sh, or porting it to a Python script or notebook.
+
+#about post_norm, I add " model before: False in the yaml, Changed the variable name on the documents and number of cores about my computer.
